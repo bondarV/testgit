@@ -2,4 +2,4 @@ bin/
 obj/
 .vs/
 .idea/
-\temporary.txt
+temporary.txt
