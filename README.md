@@ -32,7 +32,7 @@
 - гіперпосилання
 - картинки
   
-Документація з використання Git розміщена за посиланням.
+Документація з використання Git розміщена за [посиланням.](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Виконав: **Бондар Віталій**
 
